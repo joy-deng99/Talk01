@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 51,
+    "height" : 46
+  }, {
+    "width" : 101,
+    "height" : 92
+  }, {
+    "width" : 201,
+    "height" : 183
+  }, {
+    "width" : 401,
+    "height" : 366
+  }, {
+    "width" : 802,
+    "height" : 731
+  }, {
+    "width" : 1604,
+    "height" : 1462
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1604,
+  "@id" : "https://joy-deng99.github.io/Talk01/images/Annotations",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1462
+}
